@@ -1,8 +1,8 @@
-title: Words & Thoughts & 🖼
+title: Words & 🖼 & Thoughts 
 author: Tanya
 email: TanyaSelvog@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Random & semi-regular writings.
 theme: minima
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: false # set to false to remove excerpts on the homepage
