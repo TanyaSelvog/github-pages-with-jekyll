@@ -1,3 +1,15 @@
-# Welcome to my blog
+# Bits & Bytes
 
-I'm glad you are here. I plan to talk about ...
+# Bit
+
+# Bytes
+
+# Kilobytes
+
+# Megabytes
+
+# Gigabytes
+
+# Terabytes
+
+
