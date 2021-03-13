@@ -3,6 +3,6 @@ author: Tanya
 email: TanyaSelvog@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Random & semi-regular writings.
-theme: minima
+theme: cayman
 
 show_excerpts: false # set to false to remove excerpts on the homepage
