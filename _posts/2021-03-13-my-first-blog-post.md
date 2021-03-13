@@ -4,6 +4,9 @@ date: 2021-03-12
 ---
 
 **Bit**
+
+
+0️⃣1️⃣
 * portmanteau of binary digit
 * basic unit of information in computing
 * represents a logical state with one of two possible values
@@ -11,6 +14,8 @@ date: 2021-03-12
 **Byte**
 * made up of 8 bits
 * historically was the # of bits used to encode a single character of text
+
+
 
 
 **Kilobyte**
