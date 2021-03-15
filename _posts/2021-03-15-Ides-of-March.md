@@ -3,9 +3,9 @@ title: "Ides of March"
 date: 2021-03-15
 ---
 
-# Something I'd like to iterate on
+# Iterations
 
-## Moments of happiness
+## Moments of Happiness
 
 🎧Listening to:
 
